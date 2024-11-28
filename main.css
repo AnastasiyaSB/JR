@@ -1,0 +1,23 @@
+header {
+    font-size: 36px;
+    color: red;
+  }
+  body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .main {
+    font-size: 20px;
+    height: 400px;
+    width: 400px;;
+  }
+  .lorem {
+    font-size: 18px;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 4px rgba(147, 178, 66, 0.5)
+  }
+  .conainer {
+    display: flex;
+    justify-content:space-between;
+    text-align: center;
+  }
+  
